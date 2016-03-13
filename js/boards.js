@@ -18,6 +18,10 @@ var BOARD_DEFINITIONS = [
         identifier: "REVO",
         vcp: true
     }, {
+        name: "KKNG F4",
+        identifier: "KKNGF4",
+        vcp: true
+    }, {
         name: "SPARKY2 F4",
         identifier: "SPK2",
         vcp: true
