@@ -15,6 +15,7 @@ TABS.configuration.initialize = function (callback, scrollPosition) {
         "REVN",
         "BJF4",
         "REVO",
+        "KKNG",
         "SPK2",
         "AFF4",
         "VRCO"

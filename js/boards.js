@@ -19,7 +19,7 @@ var BOARD_DEFINITIONS = [
         vcp: true
     }, {
         name: "KKNG F4",
-        identifier: "KKNGF4",
+        identifier: "KKNG",
         vcp: true
     }, {
         name: "SPARKY2 F4",
